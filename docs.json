@@ -54,6 +54,9 @@
         ]
       },
       {
+        "tab": "Untitled Tab"
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
@@ -69,19 +72,6 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Untitled Tab",
-        "products": [
-          {
-            "product": "Untitled Product",
-            "dropdowns": [
-              {
-                "dropdown": "Untitled Dropdown"
-              }
             ]
           }
         ]
